@@ -51,7 +51,7 @@ UI for performing their duties in the examination hall.
 
 You can access our Figma design files via the link below:
 
-    *   https://www.figma.com/design/Y5lB9xegjiM4YGvrHllG01/Examination-Management-System?node-id=0-1&p=f&t=sPWADPDnIBNicRYv-0
+   https://www.figma.com/design/Y5lB9xegjiM4YGvrHllG01/Examination-Management-System?node-id=0-1&t=LCB3wF1AbnF28St7-1
 
 ## Group Members
 
@@ -73,5 +73,6 @@ The following individuals contributed to this Design Project:
 
 
 ---
+
 
 
